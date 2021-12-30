@@ -21,7 +21,7 @@ func main() {
 
 	input := os.Args[1]
 
-	DaytimeServer(input)
+	HashFunc(input)
 
 }
 
